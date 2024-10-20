@@ -1,0 +1,8 @@
+canny_env/
+canny_env/*
+*.jpg
+*.jpg
+*.png
+*.svg
+*.webp
+*.gif
